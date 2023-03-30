@@ -12,6 +12,8 @@
 .cart-container {
   background-color: rgba(245, 171, 42, 0.478);
   margin-top: 40px;
+  position: sticky;
+  top: 0;
 }
 .cart-container h3 {
   text-align: center;

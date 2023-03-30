@@ -1,0 +1,13 @@
+.cart-text p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.cart {
+  position: sticky;
+  top: 0;
+  /* background-color: orange; */
+}
+h6 {
+  font-size: 22px;
+}
