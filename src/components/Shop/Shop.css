@@ -4,11 +4,21 @@
 }
 .product-container {
   /* background-color: gray; */
-  margin: 50px;
+  margin: 40px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 .cart-container {
-  background-color: orange;
+  background-color: rgba(245, 171, 42, 0.478);
+  margin-top: 40px;
+}
+.cart-container h3 {
+  text-align: center;
+  text-decoration: underline;
+  /* margin: 50px; */
+}
+.cart-text {
+  margin-left: 10px;
+  margin-top: 20px;
 }
