@@ -6,6 +6,8 @@
   color: #ffffff;
   height: 80px;
   padding: 0 60px;
+  position: sticky;
+  top: 0;
 }
 .link a {
   /* display: flex; */
